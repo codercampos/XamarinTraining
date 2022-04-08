@@ -68,7 +68,7 @@ namespace CarouselPageSample
 </ContentPage>
 ```
 
-   - DatabasePage.xaml
+   - DesignPage.xaml
    
    The content of this page should look like this:
 
@@ -90,7 +90,7 @@ namespace CarouselPageSample
 </ContentPage>
 ```
 
-   - DesignPage.xaml
+   - DatabasePage.xaml
 
    The content of this page should look like this:
 
