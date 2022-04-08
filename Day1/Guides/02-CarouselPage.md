@@ -180,3 +180,9 @@ Our final code will look like this:
     </ContentPage>
 </CarouselPage>
  ```
+
+ The app will look like this (don't forget to swipe left and right):
+
+ | iOS | Android |
+ | --- | --- |
+ | <img src="../Screenshots/screen04.png" height="300" /> | <img src="../Screenshots/screen03.png" height="300" /> |
